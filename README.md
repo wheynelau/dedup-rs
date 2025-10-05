@@ -2,6 +2,10 @@
 
 Rust implementation of deduplication algorithms with Python bindings.
 
+**Note:** This repository is used in conjunction with [text-dedup-rs](https://github.com/wheynelau/text-dedup-rs):
+- [dedup-rs](https://github.com/wheynelau/dedup-rs) - Rust implementation (this repo)
+- [text-dedup-rs](https://github.com/wheynelau/text-dedup-rs) - Python package that uses dedup-rs
+
 ## Components
 
 This workspace contains three crates:
