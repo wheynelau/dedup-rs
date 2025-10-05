@@ -571,7 +571,7 @@ dependencies = [
 
 [[package]]
 name = "dedup-bin"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "arrow",
  "clap",
@@ -583,7 +583,7 @@ dependencies = [
 
 [[package]]
 name = "dedup-core"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "byteorder",
  "lazy_static",
@@ -600,7 +600,7 @@ dependencies = [
 
 [[package]]
 name = "dedup-py"
-version = "0.3.0"
+version = "0.4.0"
 dependencies = [
  "dedup-core",
  "numpy",

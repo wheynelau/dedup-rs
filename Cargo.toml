@@ -1,4 +1,5 @@
 [workspace]
+name = "dedup-rs"
 members = ["dedup-core", "dedup-bin", "dedup-py"]
 resolver = "2"
 
